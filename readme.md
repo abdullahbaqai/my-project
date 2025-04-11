@@ -1,1 +1,3 @@
 "# My project" 
+Weather Image Preprocessing using Deep Learning and OpenCV
+This project focuses on preprocessing weather-affected images using tailored enhancement techniques like dehazing, rain streak removal, low-light enhancement, and brightness adjustment. It also integrates a trained deep learning model to predict the weather condition of an image and applies denoising to enhance the final output.
